@@ -5,5 +5,5 @@ The program will ask the user to enter a series of words that will be used to cr
 The program will then print out the story.
 
 The story templates used in this program are from:
-1. The Best Day Ever: https://bit.ly/33s9puR
-2. At the Arcade: https://bit.ly/3GEOx1K
+  1. The Best Day Ever: https://bit.ly/33s9puR
+  2. At the Arcade: https://bit.ly/3GEOx1K
