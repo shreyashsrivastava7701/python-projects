@@ -1,0 +1,8 @@
+author: @shreyashsrivastava7701
+
+This is a simple basic beginner level program for Library Management.
+This programs helps manage record of people with issued books. The software has functons to:
+  1. Add student data.
+  2. View the whole data.
+  3. Search a child's record.
+All the data is saved into a data.txt file
