@@ -1,0 +1,13 @@
+author: @shreyashsrivastava7701
+
+This is a simple game "Rock, Paper and Scissors" which many of you might have played before.
+The theory:
+  1. If Computer chooses Rock:
+    User choice is Scissor then Computer wins.
+    User choice is Paper then User wins.
+  2. If Computer chooses Paper:
+    User choice is Scissor then User wins.
+    User choice is Rock then Computer wins.
+  3. If Computer chooses Scissor:
+    User choice is Paper then Computer wins.
+    User choice is Rock then User wins.
