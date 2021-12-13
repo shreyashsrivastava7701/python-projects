@@ -1,3 +1,5 @@
+import time
+
 # Starting
 print("Welcome to the Mad Libs App!")
 print("Choose from the below two stories you wish to make:")
@@ -72,3 +74,13 @@ elif story_choose == 2:
     story_2(noun, noun2, verb, noun3, verb2, noun4, noun5, noun6)
 else:
     print("Invalid input. Please try again.")
+
+print("\n")
+print("\n")
+close = input("Write close to exit: ") # Closing the program
+if close == "close":
+    print("Thank you for using the Mad Libs App!")
+    time.sleep(5)
+    exit()
+else:
+    exit()
