@@ -1,0 +1,12 @@
+Date and Time: 2021-12-13 18:28:32 
+User Choice: paper 
+Computer Choice: scissor 
+Date and Time: 2021-12-13 18:28:36 
+User Choice: rock 
+Computer Choice: scissor 
+Date and Time: 2021-12-13 18:28:38 
+User Choice: scissor 
+Computer Choice: rock 
+Date and Time: 2021-12-13 18:28:40 
+User Choice: exit 
+Computer Choice: rock 
